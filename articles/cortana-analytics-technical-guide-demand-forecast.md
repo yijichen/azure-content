@@ -14,7 +14,7 @@
 	ms.devlang="na"
 	ms.topic="article"
 	ms.date="01/24/2016"
-	ms.author="yijichen"/>
+	ms.author="inqiu;yijichen"/>
 
 # Technical Guide to the Cortana Analytics Solution Template for Demand Forecast in Energy
 
